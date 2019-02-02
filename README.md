@@ -1,6 +1,6 @@
 # python-linear-regression-estimator
 
-We build a simple linear regression estimator using the gradient descent approximation. The estimator is used to predict house prices using the Housing dataset. Hyperparameter tuning is used to find the regression model with the best performance by evalauting the  R2R2  value for different learning rates.
+We build a simple linear regression estimator using the gradient descent approximation. The estimator is used to predict house prices using the Housing dataset. Hyperparameter tuning is used to find the regression model with the best performance by evalauting the R^2  value for different learning rates.
 
 References:
 
